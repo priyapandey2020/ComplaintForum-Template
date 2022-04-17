@@ -29,7 +29,7 @@ const TabNavigator = createBottomTabNavigator({
         return(
           <Image
           source={require("./assets/complaint.webp")}
-          style={{width:40, height:40}}
+          style={{width:50, height:50}}
         />
         )
         
